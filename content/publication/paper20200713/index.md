@@ -3,13 +3,12 @@ title: "ADD New one"
 authors:
 - David A. Klindt
 - Matthias Bethge
-- Alexander S. Ecker
-- Thomas Euler
-date: "2017-07-13T00:00:00Z"
+- (May, 2013)
+date: "2020-07-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-029T00:00:00Z"
+publishDate: "2020-07-013T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

@@ -68,5 +68,6 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+**Note:** publish date in brackets. 
+Quickly discover relevant content by [filtering representaion]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
