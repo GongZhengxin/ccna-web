@@ -1,25 +1,14 @@
 ---
-draft: true
+title: Posts
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
 view: 2
-title: Literature Title
-subtitle: ""
-date: 2020-07-10T04:46:07.744Z
-summary: ""
+
+# Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
   image: ""
-featured: true
-tags:
-  - ""
-categories:
-  - ""
-projects:
-  - ""
-image:
-  caption: ""
-  filename: avater.jpg
-  preview_only: true
 ---
-* **contributor:**
-
-**topic:**
