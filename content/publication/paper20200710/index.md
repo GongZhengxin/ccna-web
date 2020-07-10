@@ -5,10 +5,10 @@ authors:
 - Matthias Bethge
 - Alexander S. Ecker
 - Thomas Euler
-date: "2020-07-10T00:00:00Z"
+date: "2017-07-10T00:00:00Z"
 doi: ""
 
-# Schedule page publish date (NOT publication's date).根据此时间对Pre排序
+# Schedule page publish date (NOT publication's date).
 publishDate: "2018-01-029T00:00:00Z"
 
 # Publication type.
